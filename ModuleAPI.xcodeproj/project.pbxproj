@@ -60,7 +60,8 @@
 				C9A7862F283A7DD200D9177B /* ModuleAPI.h */,
 				C9A78630283A7DD200D9177B /* ModuleAPI.docc */,
 			);
-			path = ModuleAPI;
+			name = ModuleAPI;
+			path = Sources/ModuleAPI;
 			sourceTree = "<group>";
 		};
 		C9A78638283A7E2500D9177B /* Client */ = {

@@ -3,6 +3,8 @@
 //  ModuleAPI
 //
 
+import Foundation
+
 public final class APIClient {
     public static let shared = APIClient()
 
